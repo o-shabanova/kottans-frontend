@@ -11,30 +11,26 @@
 
 <details><summary>Quiz 1</summary>
 
-<p>
 ![Quiz 1](task_linux_cli/Screenshot1.png)
-</p>
+
 </details>
 
 <details><summary>Quiz 2</summary>
 
-<p>
 ![Quiz 2](task_linux_cli/Screenshot2.png)
-</p>
+
 </details>
 
 <details><summary>Quiz 3</summary>
 
-<p>
 ![Quiz 3](task_linux_cli/Screenshot3.png)
-</p>
+
 </details>
 
 <details><summary>Quiz 4</summary>
 
-<p>
 ![Quiz 4](task_linux_cli/Screenshot4.png)
-</p>
+
 </details>
 
 До цього курсу в мене були досить базові знання щодо CLI. Завзяки цбому курсу я дизналася більше команд для маніпуляції
