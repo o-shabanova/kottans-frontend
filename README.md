@@ -52,7 +52,7 @@
 
 </details>
 
-<details><summary>Screenshot 1</summary>
+<details><summary>Screenshot 2</summary>
 
 ![Screenshot 2](task_git_collaboration/Screenshot2.png)
 
